@@ -46,3 +46,7 @@ Command for creating desktop:-
 ```bash
 xdotool set_num_desktops 9
 ```
+
+
+xscreensaver
+sudo apt-get install xscreensaver xscreensaver-data-extra xscreensaver-gl-extra
